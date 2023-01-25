@@ -1,0 +1,23 @@
+@charset "utf-8";
+img {
+    width: 310px;
+    height: 310px;
+}
+h1 {
+    font-size: 18px;
+}
+body {
+    font-family: arial;
+}
+nav {
+	text-align: center;
+	background-color: aqua;
+	padding: 10px;
+}
+li {
+	display: inline-block;
+	padding: 10px;
+}
+li a {
+	text-decoration: none;
+}
